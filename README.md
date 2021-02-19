@@ -16,6 +16,6 @@
    <img align="right" alt="GIF" src="https://github.com/amagsid/Apple-mockup/blob/master/assets/watch-banner.png" width="460" height="310" />
    <img align="left" alt="GIF" src="https://github.com/amagsid/Apple-mockup/blob/master/assets/iPhone-banner.png" width="460" height="310" />
 
-  
+  <br>
    
-   <img alt="GIF" src="https://github.com/amagsid/Adyen.com-clone/blob/master/readme-assets/animation.gif" width="1200" height="600" />
+   <img alt="GIF" src="https://github.com/amagsid/Apple-mockup/blob/master/assets/footer.gif" width="1200" height="600" />
