@@ -1,7 +1,7 @@
 # Apple-mockup
 
 
- <img alt="GIF" src="https://github.com/amagsid/Apple-mockup/blob/master/assets/tour.gif" width="950" height="530" />
+ <img alt="GIF" src="https://github.com/amagsid/Apple-mockup/blob/master/assets/captured.gif" width="1000" height="530" />
 
  ### 💡 About the Project:
  This is a mockup of one of Apple.com pages.
