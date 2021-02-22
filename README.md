@@ -13,8 +13,8 @@
   
   
 
-   <img align="center" alt="GIF" src="https://github.com/amagsid/Apple-mockup/blob/master/assets/watch-banner.png" width="430" height="310" />
-   <img  align="center" alt="GIF" src="https://github.com/amagsid/Apple-mockup/blob/master/assets/iPhone-banner.png" width="430" height="310" />
+   <img align="left" alt="GIF" src="https://github.com/amagsid/Apple-mockup/blob/master/assets/watch-banner.png" width="350" height="310" />
+   <img  align="right" alt="GIF" src="https://github.com/amagsid/Apple-mockup/blob/master/assets/iPhone-banner.png" width="350" height="310" />
 
   <br>
    
